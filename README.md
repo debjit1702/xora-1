@@ -1002,10 +1002,4 @@ found [here](https://drive.google.com/file/d/1u-l3p3qCnrwmWq5-bG7OkfCXFPYM9t5z/v
 
 ## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js Pro Course**
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
